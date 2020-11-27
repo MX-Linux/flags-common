@@ -1,0 +1,31 @@
+Format: 1.8
+Date: Fri, 27 Nov 2020 14:34:01 -0400
+Source: flags-common
+Binary: flags-common
+Architecture: source all
+Version: 20.11.01
+Distribution: mx
+Urgency: medium
+Maintainer: dolphin oracle <dolphinoracle@gmail.com>
+Changed-By: Dolphin Oracle <dolphinoracle@gmail.com>
+Description:
+ flags-common - package of national flags
+Changes:
+ flags-common (20.11.01) mx; urgency=medium
+ .
+   * initial commit
+Checksums-Sha1:
+ d1a8ff75873623233b9430e58ad410a0b46b1705 556 flags-common_20.11.01.dsc
+ 7bc523caf6f8dc46d9880747f308c194b6442c5a 160056 flags-common_20.11.01.tar.xz
+ ccde682335b145eb97ebe96b244ca9a730be0f15 165416 flags-common_20.11.01_all.deb
+ 64f1c0310c3fc6db21ca2dd4729ab7b14d5e03f5 4704 flags-common_20.11.01_amd64.buildinfo
+Checksums-Sha256:
+ 0beeda4e798ec7540b36aa79c4649b52acb35ee37fdd1ab6a5b233c690d2d02e 556 flags-common_20.11.01.dsc
+ 60eeacfda1142e2fbf883c99ef95b97aaf48660582191f800e53f622280b544f 160056 flags-common_20.11.01.tar.xz
+ f5402cbf670e21aebbe27ba79471442cafdf08c897a7e813beccebc400e0ab76 165416 flags-common_20.11.01_all.deb
+ aaeecf0a26c07c48777e96c6d2cab442cd8edad1432b566ffb48d34304b86113 4704 flags-common_20.11.01_amd64.buildinfo
+Files:
+ 8314bf8aa0a5de7810f20fe789260c35 556 xfce extra flags-common_20.11.01.dsc
+ 29d8e9eaba0afad08c7fea8e0644b167 160056 xfce extra flags-common_20.11.01.tar.xz
+ e4a1ad2fd019263b99492aa365044347 165416 xfce extra flags-common_20.11.01_all.deb
+ da9b26b30a7d2a84cc7c96e0a36814b8 4704 xfce extra flags-common_20.11.01_amd64.buildinfo
