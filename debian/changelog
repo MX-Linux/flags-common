@@ -1,3 +1,9 @@
+flags-common (23.07.02) mx; urgency=medium
+
+  * more flags
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Sat, 08 Jul 2023 00:52:29 -0400
+
 flags-common (23.07.01) mx; urgency=medium
 
   * provide latam flag
