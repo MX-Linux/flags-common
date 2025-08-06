@@ -7,5 +7,4 @@ Standards-Version: 3.9.3
 
 Package: flags-common
 Architecture: all
-Conflicts: gxkb (<< 0.9.6)
 Description: package of national flags
