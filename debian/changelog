@@ -1,3 +1,9 @@
+flags-common (25.08.03) mx; urgency=medium
+
+  * correct postinstall cp 
+
+ -- Dolphin Oracle <dolphinoracle@gmail.com>  Wed, 06 Aug 2025 18:11:46 -0400
+
 flags-common (25.08.02mx25) mx; urgency=medium
 
   * eliminate conflicting file issues
