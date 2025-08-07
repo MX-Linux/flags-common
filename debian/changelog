@@ -1,4 +1,4 @@
-flags-common (23.08.05mx25) mx; urgency=medium
+flags-common (25.08.05mx25) mx; urgency=medium
 
   * update for trixie, remove conflicts and conflicting flags
 
